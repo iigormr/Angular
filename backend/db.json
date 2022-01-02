@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caneta Bic Preta",
-      "price": 5.89
+      "price": "5.87"
     },
     {
       "id": 2,
@@ -29,6 +29,11 @@
       "name": "Fernanda",
       "price": "1400",
       "id": 7
+    },
+    {
+      "name": "teste",
+      "price": "123",
+      "id": 8
     }
   ]
 }

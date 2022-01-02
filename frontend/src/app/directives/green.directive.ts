@@ -6,6 +6,6 @@ import {Directive, ElementRef} from '@angular/core';
 export class GreenDirective {
 
     constructor(private el: ElementRef) {
-        el.nativeElement.style.color = '#00FF00';
+        el.nativeElement.style.color = '#28a745';
     }
 }
