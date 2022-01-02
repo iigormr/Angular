@@ -17,3 +17,8 @@ body {
 .v-middle {
     vertical-align: middle;
 }
+
+form {
+    display: flex;
+    flex-direction: column;
+}

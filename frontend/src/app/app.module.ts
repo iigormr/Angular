@@ -35,6 +35,7 @@ import {registerLocaleData} from "@angular/common";
 import {GreenDirective} from './directives/green.directive';
 import {BlueDirective} from './directives/blue.directive';
 import {ProductUpdateComponent} from './components/product/product-update/product-update.component';
+import {ProductDeleteComponent} from './components/product/product-delete/product-delete.component';
 
 registerLocaleData(localePt);
 
@@ -53,7 +54,8 @@ registerLocaleData(localePt);
         ProductRead2Component,
         GreenDirective,
         BlueDirective,
-        ProductUpdateComponent
+        ProductUpdateComponent,
+        ProductDeleteComponent
     ],
     imports: [
         BrowserModule,
