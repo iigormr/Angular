@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": "5.87"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": "12000.87"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Geladeira",
+      "price": "1913.99",
+      "id": 4
+    },
+    {
+      "name": "Mesa Itatiaia",
+      "price": "1300",
+      "id": 6
+    },
+    {
+      "name": "Fernanda",
+      "price": "1400",
+      "id": 7
+    },
+    {
+      "name": "teste",
+      "price": "123",
+      "id": 8
+    }
+  ]
+}
